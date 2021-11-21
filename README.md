@@ -15,7 +15,7 @@ Working full time on research & software developments projects like [GaNDLF](htt
 - Also love cooking and talking about emotions. [because Feelings >>> Facts](https://en.wikipedia.org/wiki/FAIR_data) 
 
 ### Feelings
-- Will be anxious, scared, overthinking with you and everythig you say for 4 days straight.
+- Will be anxious, scared, overthinking about you and everything you say for 4 days straight.
 - love to hang out with people but too afraid to call them because I feel like i'm an interruption to their life.
 - Please ask me out for a cup of coffee, you will have a great conversation, I am quite honest (sometimes brutally, but trying to work on that) with my replies.
 
