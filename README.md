@@ -12,11 +12,10 @@ Working full time on research & software developments projects like [GaNDLF](htt
 ### Interests
 - Applying concepts of Deep Learning for Medical imaging to bring accountability, [reproducibility](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) for Medical Imaging algorithms to low resource environments.
 - Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data) (Not talking bout Facebook AI Research, just go to the link, will you?) 
-- Also love cooking and talking about emotions. [because Feelings >>> Facts](https://en.wikipedia.org/wiki/FAIR_data) 
+- Also love cooking and talking about emotions. [because Feelings >>> Facts](https://www.youtube.com/watch?v=70669ZJdmWg) 
 
 ### Feelings
-- Will be anxious, scared, overthinking about you and everything you say for 4 days straight.
-- love to hang out with people but too afraid to call them because I feel like i'm an interruption to their life.
+- I give a damn, about how you feel, how i make you feel and how you made me feel, and i remember every little detail, good and bad.
 - Please ask me out for a cup of coffee, you will have a great conversation, I am quite honest (sometimes brutally, but trying to work on that) with my replies.
 
 ### How to reach me 
