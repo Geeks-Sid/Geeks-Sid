@@ -16,7 +16,7 @@ Working full time on research & software developments projects like [GaNDLF](htt
 
 ### Feelings
 - I give a damn, about how you feel, how i make you feel and how you made me feel, and i remember every little detail, good and bad.
-- Please ask me out for a cup of coffee, you will have a great conversation, I am quite honest (sometimes brutally, but trying to work on that) with my replies.
+- Please ask me out for a cup of coffee, you will have a great conversation, I am sincere with my replies.
 
 ### How to reach me 
 [siddhesh [at] upenn.edu](mailto:siddhesh@upenn.edu)
