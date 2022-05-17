@@ -1,4 +1,4 @@
-## Hello there matey, This is Siddhesh d(◕ˬ◕)b
+## Hello there, This is Siddhesh d(◕ˬ◕)b
 
 <a href="https://scholar.google.com/citations?user=N-MzecYAAAAJ&hl=en" alt="Citation"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-red" /></a>
 <a href="https://orcid.org/0000-0003-4807-2495" alt="Citation"><img src="https://img.shields.io/badge/Orc--ID-Profile-green" /></a>
