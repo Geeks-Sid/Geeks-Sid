@@ -11,7 +11,6 @@ Working full time on research & software developments projects like [GaNDLF](htt
 
 ### Interests
 - Applying concepts of Deep Learning for Medical imaging to bring accountability, [reproducibility](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) for Medical Imaging algorithms to low resource environments.
-- Huge advocate of [FAIR](https://en.wikipedia.org/wiki/FAIR_data) (Not talking bout Facebook AI Research, just go to the link, will you?) 
 - Also love cooking and talking about emotions. [because Feelings >>> Facts](https://www.youtube.com/watch?v=70669ZJdmWg) 
 
 ### How to reach me 
