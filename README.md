@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Geeks_Sid" alt="Citation"><img src="https://img.shields.io/twitter/follow/Geeks_Sid?style=social" /></a>
 
 ### Current Role 
-Data Scientist at MeRAQI Lab, CBICA, Department of Pathology and Laboratory Medicine, Perelman School of Medicine at The University of Pennsylvania.
+Data Engineer and a Medical Imaging Researcher at MeRAQI Lab, Division of Computational Pathology, Department of Pathology and Laboratory Medicine, Indiana University Health.
 Working full time on research & software developments projects like [GaNDLF](https://github.com/CBICA/GaNDLF/tree/master/GANDLF)
 
 ### Interests
