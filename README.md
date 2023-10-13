@@ -14,4 +14,4 @@ Working full time on research & software developments projects like [GaNDLF](htt
 - Also love cooking and talking about emotions. [because Feelings >>> Facts](https://www.youtube.com/watch?v=70669ZJdmWg) 
 
 ### How to reach me 
-[siddhesh [at] upenn.edu](mailto:thakursp@iu.edu)
+[thakursp [at] iu.edu](mailto:thakursp@iu.edu)
