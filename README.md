@@ -7,7 +7,7 @@
 
 ### Current Role 
 Data Engineer and a Medical Imaging Researcher at MeRAQI Lab, Division of Computational Pathology, Department of Pathology and Laboratory Medicine, Indiana University Health.
-Working full time on research & software developments projects like [GaNDLF](https://github.com/CBICA/GaNDLF/tree/master/GANDLF)
+Working full time on research & software developments projects like [GaNDLF](https://github.com/mlcommons/GaNDLF/tree/master/GANDLF), [sauron](https://github.com/IUCompPath/sauron) and more!
 
 ### Interests
 - Applying concepts of Deep Learning for Medical imaging to bring accountability, [reproducibility](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) for Medical Imaging algorithms to low resource environments.
