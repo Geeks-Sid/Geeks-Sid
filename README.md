@@ -23,9 +23,7 @@
 I specialize in **Multi-Modal AI, Whole Slide Image (WSI) Analysis, Digital Pathology, Radiology, and LLM/SLM Workflows**. My focus is bridging the gap between cutting-edge AI research and scalable, edge-ready deployments.
 
 * **⚡ High-Performance Inference & Edge AI:** Optimized deep learning models yielding up to **5.4x inference speedup** and **80% memory reduction** for low-resource CPU execution.
-* **🌐 Multi-Modal Vision-Language Systems:** Principal investigator/developer on **Google Cloud TPU & NIH U24 grants** building Vision-Language Models (VLMs) and privacy-preserving Small Language Models (SLMs) for clinical workflows.
-* **📦 Open Source & Standardization:** Key maintainer and core developer behind **[GaNDLF](https://github.com/mlcommons/GaNDLF)** (MLCommons) and **[sauron](https://github.com/IUCompPath/sauron)**.
-* **🧠 Federated Learning & Benchmarking:** Co-lead on international benchmarking efforts (e.g., FeTS, BraTS-Path).
+* **🌐 Multi-Modal Vision-Language Systems:** Principal investigator/developer on **Google Cloud TPU & NIH U24 grants** building Vision-Language Models (VLMs).
 
 ---
 
@@ -49,6 +47,6 @@ Science works best when grounded in humanity. Outside of research:
 
 ### 📫 Get in Touch
 
-* 📧 **Email:** [thakursp@iu.edu](mailto:thakursp@iu.edu) / [siddhesh0011@gmail.com](mailto:siddhesh0011@gmail.com)
-* 📍 **Location:** Indianapolis, IN, USA
+* 📧 **Email:** [thakurs2@chop.edu](mailto:thakurs2@chop.edu) / [siddhesh0011@gmail.com](mailto:siddhesh0011@gmail.com)
+* 📍 **Location:** Philadelphia, PA, USA
 * 📝 **Google Scholar:** [Siddhesh Thakur](https://scholar.google.com/citations?user=N-MzecYAAAAJ&hl=en)
