@@ -6,7 +6,7 @@
 
   <!-- BADGES & SOCIAL LINKS -->
   <p>
-    <a href="mailto:thakurs2@chop.edu"><img src="https://img.shields.io/badge/Email-thakursp%40iu.edu-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:thakurs2@chop.edu"><img src="https://img.shields.io/badge/Email-thakurs2%40chop.edu-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://scholar.google.com/citations?user=N-MzecYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
     <a href="https://orcid.org/0000-0003-4807-2495"><img src="https://img.shields.io/badge/ORCID-0000--0003--4807--2495-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
     <a href="https://www.linkedin.com/in/siddhesh-thakur-babb88107/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
